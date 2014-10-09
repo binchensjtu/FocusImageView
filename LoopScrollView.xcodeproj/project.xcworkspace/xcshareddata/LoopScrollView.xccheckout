@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4D091FB-CBED-4744-92EF-819B2C2E0CDA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LoopScrollView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4C3F5E20-A45E-4388-B12B-066B67E7C46E</key>
+		<string>https://github.com/Starer/LoopScrollView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LoopScrollView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4C3F5E20-A45E-4388-B12B-066B67E7C46E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Starer/LoopScrollView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4C3F5E20-A45E-4388-B12B-066B67E7C46E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4C3F5E20-A45E-4388-B12B-066B67E7C46E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LoopScrollView</string>
+		</dict>
+	</array>
+</dict>
+</plist>

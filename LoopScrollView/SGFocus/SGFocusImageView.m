@@ -169,7 +169,7 @@
             page = 0;
         }else if(page <0)
         {
-            page = _pageControl.numberOfPages -1;
+            page = (int)_pageControl.numberOfPages -1;
         }
     }
     _pageControl.currentPage = page;
@@ -192,7 +192,7 @@
     {
         if (idx >= ([_imageItems count]-2))
         {
-            idx = [_imageItems count]-3;
+            idx = (int)[_imageItems count]-3;
         }
         [self moveToTargetPosition:ITEM_WIDTH*(idx+1)];
     }else

@@ -10,29 +10,29 @@
 	<string>LoopScrollView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>4C3F5E20-A45E-4388-B12B-066B67E7C46E</key>
-		<string>https://github.com/Starer/LoopScrollView.git</string>
+		<key>228A1861CCE9E1A94A1BE4CC1E6596A4663DF408</key>
+		<string>https://github.com/Starer/LoopScrollView</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>LoopScrollView.xcodeproj/project.xcworkspace</string>
+	<string>LoopScrollView.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>4C3F5E20-A45E-4388-B12B-066B67E7C46E</key>
+		<key>228A1861CCE9E1A94A1BE4CC1E6596A4663DF408</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Starer/LoopScrollView.git</string>
+	<string>https://github.com/Starer/LoopScrollView</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>4C3F5E20-A45E-4388-B12B-066B67E7C46E</string>
+	<string>228A1861CCE9E1A94A1BE4CC1E6596A4663DF408</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>4C3F5E20-A45E-4388-B12B-066B67E7C46E</string>
+			<string>228A1861CCE9E1A94A1BE4CC1E6596A4663DF408</string>
 			<key>IDESourceControlWCCName</key>
 			<string>LoopScrollView</string>
 		</dict>

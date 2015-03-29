@@ -27,14 +27,14 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3A0F8AE319E6342D00B3F7CF /* LoopScrollView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoopScrollView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A0F8AE319E6342D00B3F7CF /* SGFocusImageViewDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SGFocusImageViewDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A0F8AE619E6342D00B3F7CF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3A0F8AE819E6342D00B3F7CF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3A0F8AEA19E6342D00B3F7CF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		3A0F8AEE19E6342D00B3F7CF /* LoopScrollView-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "LoopScrollView-Info.plist"; sourceTree = "<group>"; };
+		3A0F8AEE19E6342D00B3F7CF /* SGFocusImageViewDemo-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SGFocusImageViewDemo-Info.plist"; sourceTree = "<group>"; };
 		3A0F8AF019E6342D00B3F7CF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3A0F8AF219E6342D00B3F7CF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3A0F8AF419E6342D00B3F7CF /* LoopScrollView-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "LoopScrollView-Prefix.pch"; sourceTree = "<group>"; };
+		3A0F8AF419E6342D00B3F7CF /* SGFocusImageViewDemo-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SGFocusImageViewDemo-Prefix.pch"; sourceTree = "<group>"; };
 		3A0F8AF519E6342D00B3F7CF /* PXAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PXAppDelegate.h; sourceTree = "<group>"; };
 		3A0F8AF619E6342D00B3F7CF /* PXAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PXAppDelegate.m; sourceTree = "<group>"; };
 		3A0F8AF919E6342E00B3F7CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -69,7 +69,7 @@
 		3A0F8ADA19E6342D00B3F7CF = {
 			isa = PBXGroup;
 			children = (
-				3A0F8AEC19E6342D00B3F7CF /* LoopScrollView */,
+				3A0F8AEC19E6342D00B3F7CF /* SGFocusImageViewDemo */,
 				3A0F8AE519E6342D00B3F7CF /* Frameworks */,
 				3A0F8AE419E6342D00B3F7CF /* Products */,
 			);
@@ -78,7 +78,7 @@
 		3A0F8AE419E6342D00B3F7CF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3A0F8AE319E6342D00B3F7CF /* LoopScrollView.app */,
+				3A0F8AE319E6342D00B3F7CF /* SGFocusImageViewDemo.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -93,7 +93,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		3A0F8AEC19E6342D00B3F7CF /* LoopScrollView */ = {
+		3A0F8AEC19E6342D00B3F7CF /* SGFocusImageViewDemo */ = {
 			isa = PBXGroup;
 			children = (
 				3A0F8B2519E6393600B3F7CF /* SGFocus */,
@@ -105,6 +105,7 @@
 				3A0F8B0119E6342E00B3F7CF /* Images.xcassets */,
 				3A0F8AED19E6342D00B3F7CF /* Supporting Files */,
 			);
+			name = SGFocusImageViewDemo;
 			path = LoopScrollView;
 			sourceTree = "<group>";
 		};
@@ -112,10 +113,10 @@
 			isa = PBXGroup;
 			children = (
 				3A5B685219E66EE700308F66 /* AsSets */,
-				3A0F8AEE19E6342D00B3F7CF /* LoopScrollView-Info.plist */,
+				3A0F8AEE19E6342D00B3F7CF /* SGFocusImageViewDemo-Info.plist */,
 				3A0F8AEF19E6342D00B3F7CF /* InfoPlist.strings */,
 				3A0F8AF219E6342D00B3F7CF /* main.m */,
-				3A0F8AF419E6342D00B3F7CF /* LoopScrollView-Prefix.pch */,
+				3A0F8AF419E6342D00B3F7CF /* SGFocusImageViewDemo-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -146,9 +147,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3A0F8AE219E6342D00B3F7CF /* LoopScrollView */ = {
+		3A0F8AE219E6342D00B3F7CF /* SGFocusImageViewDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3A0F8B1819E6342F00B3F7CF /* Build configuration list for PBXNativeTarget "LoopScrollView" */;
+			buildConfigurationList = 3A0F8B1819E6342F00B3F7CF /* Build configuration list for PBXNativeTarget "SGFocusImageViewDemo" */;
 			buildPhases = (
 				3A0F8ADF19E6342D00B3F7CF /* Sources */,
 				3A0F8AE019E6342D00B3F7CF /* Frameworks */,
@@ -158,9 +159,9 @@
 			);
 			dependencies = (
 			);
-			name = LoopScrollView;
+			name = SGFocusImageViewDemo;
 			productName = LoopScrollView;
-			productReference = 3A0F8AE319E6342D00B3F7CF /* LoopScrollView.app */;
+			productReference = 3A0F8AE319E6342D00B3F7CF /* SGFocusImageViewDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -173,7 +174,7 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = Px;
 			};
-			buildConfigurationList = 3A0F8ADE19E6342D00B3F7CF /* Build configuration list for PBXProject "LoopScrollView" */;
+			buildConfigurationList = 3A0F8ADE19E6342D00B3F7CF /* Build configuration list for PBXProject "SGFocusImageViewDemo" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -186,7 +187,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3A0F8AE219E6342D00B3F7CF /* LoopScrollView */,
+				3A0F8AE219E6342D00B3F7CF /* SGFocusImageViewDemo */,
 			);
 		};
 /* End PBXProject section */
@@ -322,10 +323,10 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "LoopScrollView/LoopScrollView-Prefix.pch";
-				INFOPLIST_FILE = "LoopScrollView/LoopScrollView-Info.plist";
+				GCC_PREFIX_HEADER = "LoopScrollView/SGFocusImageViewDemo-Prefix.pch";
+				INFOPLIST_FILE = "LoopScrollView/SGFocusImageViewDemo-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SGFocusImageViewDemo;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -337,10 +338,10 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "LoopScrollView/LoopScrollView-Prefix.pch";
-				INFOPLIST_FILE = "LoopScrollView/LoopScrollView-Info.plist";
+				GCC_PREFIX_HEADER = "LoopScrollView/SGFocusImageViewDemo-Prefix.pch";
+				INFOPLIST_FILE = "LoopScrollView/SGFocusImageViewDemo-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = SGFocusImageViewDemo;
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -348,7 +349,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3A0F8ADE19E6342D00B3F7CF /* Build configuration list for PBXProject "LoopScrollView" */ = {
+		3A0F8ADE19E6342D00B3F7CF /* Build configuration list for PBXProject "SGFocusImageViewDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A0F8B1619E6342F00B3F7CF /* Debug */,
@@ -357,7 +358,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A0F8B1819E6342F00B3F7CF /* Build configuration list for PBXNativeTarget "LoopScrollView" */ = {
+		3A0F8B1819E6342F00B3F7CF /* Build configuration list for PBXNativeTarget "SGFocusImageViewDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A0F8B1919E6342F00B3F7CF /* Debug */,

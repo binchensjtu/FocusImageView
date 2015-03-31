@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
   s.version          = "1.0.0"
   s.summary          = "focus banner."
   s.description      = <<-DESC
-                       focus banner scrollview
+                       focus banner imageview can scorll cycle.
                        DESC
   s.homepage         = "https://github.com/Starer/LoopScrollView"
   s.license          = 'BSD'

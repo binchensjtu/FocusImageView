@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "5.0"
   s.source       = { :git => "https://github.com/Starer/FocusImageView.git", :tag => "1.0.0" }
 
-  s.source_files = 'FocusImageView/SGFocus/*'
+  s.source_files = 'LoopScrollView/SGFocus/*'
 
   s.frameworks = 'Foundation', 'CoreGraphics', 'UIKit'
 
